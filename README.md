@@ -56,8 +56,8 @@ Computer Information Systems
 Name|Team Role|E-mail
 -------|--------|--------
 Alex Johnson|Product Owner|acjohn25@asu.edu
-Robert Williams|Scrum Master|rcwill12@asu.edu
+[Robert Williams](https://www.linkedin.com/pub/robert-cody-duke-williams/91/240/38b) |Scrum Master|rcwill12@asu.edu
 [Breanna Huffman](https://www.linkedin.com/in/breannapkhuffman) |Team Member|Breanna.Huffman@asu.edu
-Christopher Warhola|Team Member|cwarhola@asu.edu    	                        
-Yu Yang|Team Member|yyang172@asu.edu
+[Christopher Warhola](https://www.linkedin.com/in/chriswarhola) |Team Member|cwarhola@asu.edu    	                        
+[Yu Yang](https://www.linkedin.com/pub/yu-yang/97/902/6b) |Team Member|yyang172@asu.edu
  
