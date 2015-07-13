@@ -57,7 +57,7 @@ Name|Team Role|E-mail
 -------|--------|--------
 Alex Johnson|Product Owner|acjohn25@asu.edu
 Robert Williams|Scrum Master|rcwill12@asu.edu
-Breanna Huffman|Team Member|Breanna.Huffman@asu.edu
+[Breanna Huffman](https://www.linkedin.com/in/breannapkhuffman) |Team Member|Breanna.Huffman@asu.edu
 Christopher Warhola|Team Member|cwarhola@asu.edu    	                        
 Yu Yang|Team Member|yyang172@asu.edu
  
